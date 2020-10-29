@@ -1,0 +1,32 @@
+﻿  PantallaCuaterniones.cpp
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(46,1): warning C4005: 'BTN_LIMPIARAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(38): message : vea la definición anterior de 'BTN_LIMPIARAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(47,1): warning C4005: 'BTN_NULOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(39): message : vea la definición anterior de 'BTN_NULOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(48,1): warning C4005: 'BTN_CONJUGADOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(40): message : vea la definición anterior de 'BTN_CONJUGADOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(49,1): warning C4005: 'BTN_OPUESTOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(41): message : vea la definición anterior de 'BTN_OPUESTOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(50,1): warning C4005: 'BTN_ABSOLUTOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(42): message : vea la definición anterior de 'BTN_ABSOLUTOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(51,1): warning C4005: 'BTN_NORMALIZADOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(43): message : vea la definición anterior de 'BTN_NORMALIZADOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(52,1): warning C4005: 'BTN_INVERSOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(44): message : vea la definición anterior de 'BTN_INVERSOAC'
+  main.cpp
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(46,1): warning C4005: 'BTN_LIMPIARAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(38): message : vea la definición anterior de 'BTN_LIMPIARAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(47,1): warning C4005: 'BTN_NULOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(39): message : vea la definición anterior de 'BTN_NULOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(48,1): warning C4005: 'BTN_CONJUGADOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(40): message : vea la definición anterior de 'BTN_CONJUGADOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(49,1): warning C4005: 'BTN_OPUESTOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(41): message : vea la definición anterior de 'BTN_OPUESTOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(50,1): warning C4005: 'BTN_ABSOLUTOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(42): message : vea la definición anterior de 'BTN_ABSOLUTOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(51,1): warning C4005: 'BTN_NORMALIZADOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(43): message : vea la definición anterior de 'BTN_NORMALIZADOAC'
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(52,1): warning C4005: 'BTN_INVERSOAC': redefinición de macro
+C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\Defines.h(44): message : vea la definición anterior de 'BTN_INVERSOAC'
+  Generando código...
+  PiaMatvid2.vcxproj -> C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\Debug\PiaMatvid2.exe
