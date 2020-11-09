@@ -1,6 +1,0 @@
-﻿  PantallaBresenham.cpp
-C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(230,27): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(232,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(234,37): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(236,42): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-  PiaMatvid2.vcxproj -> C:\Users\e-arduron\Desktop\Tareas\Mativid 2\PiaMatvid2\Debug\PiaMatvid2.exe
