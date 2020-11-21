@@ -1,0 +1,23 @@
+﻿  main.cpp
+  PantallaBresenham.cpp
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(376,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(377,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(378,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(379,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(643,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(644,33): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(645,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(650,8): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\PantallaBresenham.cpp(664,15): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  PantallaCuaterniones.cpp
+  PantallaMatrices.cpp
+  PantallaMenu.cpp
+  PantallaTransformaciones.cpp
+  PantallaVectores.cpp
+  Validacion.cpp
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\Validacion.cpp(140,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\Validacion.cpp(149,20): warning C4018: '<': no coinciden signed/unsigned
+  Ventana.cpp
+  Generando código...
+C:\Users\alvar\Documents\PiaMatvid2\PiaMatvid2\Validacion.cpp(169): warning C4715: 'Validacion::validarCeros': no todas las rutas de acceso de control devuelven un valor
+  PiaMatvid2.vcxproj -> C:\Users\alvar\Documents\PiaMatvid2\Debug\PiaMatvid2.exe
